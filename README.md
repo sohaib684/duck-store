@@ -1,6 +1,7 @@
 # Duck Store - Warehouse Management and Order Pricing
 
 A full-stack application for managing rubber-duck warehouse inventory and calculating order prices. Built with Java 21, Spring Boot, MySQL, and React.
+<img width="1333" height="621" alt="image" src="https://github.com/user-attachments/assets/ab7c2739-03f5-4d43-a714-f164e728c84e" />
 
 ## Features
 
